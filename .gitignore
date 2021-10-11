@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.obj.enc
 
 # Precompiled Headers
 *.gch
@@ -27,6 +28,24 @@
 *.lib
 
 # Executables
-*.exe
+*.exe.recipe
 *.out
 *.app
+
+*.sln
+
+*.vcxproj
+*.htm
+*.vcxproj.filters
+*.vcxproj.user
+*.tlog
+*.ilk
+*.log
+*.pdb
+*.idb
+*.json
+*.sqlite
+*.vcxproj.FileListAbsolute.txt
+*.vs
+*.iobj
+*ipdb
